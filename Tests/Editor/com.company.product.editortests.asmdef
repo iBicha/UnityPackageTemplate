@@ -1,0 +1,14 @@
+{
+    "name": "com.company.product.editortests",
+    "references": [
+        "com.company.product.editor",
+        "com.company.product"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

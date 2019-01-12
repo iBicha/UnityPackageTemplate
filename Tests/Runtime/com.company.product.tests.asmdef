@@ -1,0 +1,11 @@
+{
+    "name": "com.company.product.tests",
+    "references": [
+        "com.company.product"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
