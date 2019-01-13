@@ -1,7 +1,7 @@
 {
-    "name": "com.company.product.tests",
+    "name": "com.unity.company.product.tests",
     "references": [
-        "com.company.product"
+        "com.unity.company.product"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

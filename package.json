@@ -1,9 +1,9 @@
 {
-    "name": "com.company.product",
+    "name": "com.unity.company.product",
     "displayName":"Package Template",
-    "version": "0.0.1",
+    "version": "0.0.1-preview",
     "unity": "2018.3",
-    "description": "",
+    "description": "This is the description of this package.\n\nIt's a descriptive text that explains to the end user the functionality and features or this package.",
     "keywords": ["keyword1", "keyword2"],
     "dependencies": {
         

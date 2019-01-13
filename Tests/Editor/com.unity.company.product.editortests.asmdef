@@ -1,8 +1,8 @@
 {
-    "name": "com.company.product.editortests",
+    "name": "com.unity.company.product.editortests",
     "references": [
-        "com.company.product.editor",
-        "com.company.product"
+        "com.unity.company.product.editor",
+        "com.unity.company.product"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"
